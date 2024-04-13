@@ -34,7 +34,7 @@ Here is 1:
   <img src="https://media.giphy.com/media/Lk023zZqHJ3Zz4rxtV/giphy.gif" alt="Project Highlight">
 </p>
 
-## 🧑🏼‍💻 Coolest people I know
+## 😎 Coolest people I know
 
 - [Cryptobyte](https://github.com/Cryptobyte) - BACKEND SAVANT
 - [Eric Solberg](https://github.com/eric-solberg/eric-solberg) - iOS DOMINATOR
