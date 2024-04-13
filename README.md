@@ -11,9 +11,9 @@ Ahoy 🏴‍☠️ With over 15 years under me belt as a seasoned software engin
 ## 🛠 Tech Stack
 
 - **Languages:** JavaScript, Swift, Kotlin, C#, C++
-- **Frameworks:** React, Node.js
+- **Lib/Platform:** React, Node.js
 - **Tools:** Docker, Google Cloud Platform, AWS, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 
 ## 🏴‍☠️ Pro Stack Team
 
