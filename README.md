@@ -37,6 +37,7 @@ Here is 1:
 - [Cryptobyte](https://github.com/Cryptobyte) - BACKEND SAVANT
 - [Eric Solberg](https://github.com/eric-solberg/eric-solberg) - iOS DOMINATOR
 - [Dizzyjaguar](https://github.com/dizzyjaguar/) - REACT HUMAN-FIRST
+- [Mrmakeithappen](https://github.com/MrMakeItHappen) - WEB-iOS-HERO
 
 ## 📚 What I'm currently learning
 
