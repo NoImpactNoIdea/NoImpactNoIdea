@@ -38,6 +38,7 @@ Here is 1:
 - [Eric Solberg](https://github.com/eric-solberg/eric-solberg) - iOS DOMINATOR
 - [Dizzyjaguar](https://github.com/dizzyjaguar/) - REACT HUMAN-FIRST
 - [Mrmakeithappen](https://github.com/MrMakeItHappen) - WEB-iOS-HERO
+- [Adrian Ortega](https://github.com/AOrtega84) - ANDROID Virtuoso
 
 ## 📚 What I'm currently learning
 
