@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/iDOgzWkBquKDlzaw6W/giphy.gif" alt="Welcome Banner">
 </p>
 
-## 👨‍💻 About Me
+## 👽 About Me
 
 Greetings, Earthlings! 🌌 With over 15 cosmic cycles of experience as a software engineer, I have journeyed through the vast expanse of code and technology. My mission has been dedicated to not only crafting innovative software solutions but also to the practice of assembling and leading highly efficient interstellar crews through agile practices (think lean startup by Eric Ries). My expertise spans wide and deep across the realm of 3D technologies, where I have pioneered significant advancements in tracking within three-dimensional space, enhancing interactions and functionalities within these vibrant dimensions. I am also proficient in mastering the intricate galaxies of Native Mobile and Web Development. Cheers to universal collaboration! 🚀 ps. I also believe in Aliens as a 39/yo
 
