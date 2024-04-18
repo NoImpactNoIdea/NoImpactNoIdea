@@ -1,3 +1,5 @@
+<!-- command + shift + v -->
+
 # Hello, I'm Charlie! 👋
 
 <p align="center">
@@ -6,12 +8,42 @@
 
 ## 👽 About Me
 
-Greetings, Earthlings! 🌌 With over 15 cosmic cycles of experience as a software engineer, I have journeyed through the vast expanse of code and technology. My mission has been dedicated to not only crafting innovative software solutions but also to the practice of assembling and leading highly efficient interstellar crews through agile practices (think lean startup by Eric Ries). My expertise spans wide and deep across the realm of 3D technologies, where I have pioneered significant advancements in tracking within three-dimensional space, enhancing interactions and functionalities within these vibrant dimensions. I am also proficient in mastering the intricate galaxies of Native Mobile and Web Development. Cheers to universal collaboration! 🚀 ps. I also believe in Aliens as a 39/yo
+Hello! With over 15 years of experience in software engineering, I've explored vast territories of code and technology. My career is devoted to developing innovative software solutions and leading highly efficient teams using agile methodologies, inspired by the principles of the lean startup approach by Eric Ries. I specialize in 3D technologies, driving forward advancements in spatial tracking that enhance interaction and functionality in three-dimensional environments. Additionally, I have extensive experience in both Native Mobile and Web Development. Looking forward to fostering universal collaboration! 🚀 P.S. I'm a 39-year-old who believes in the possibility of extraterrestrial life.
 
-## 🛠 Tech Stack
+<!-- libraries -->
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white">
+  <!-- languages -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+ <img alt="Static Badge" src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
+</p>
 
-- **Languages:** JavaScript, Swift, Kotlin, C#, C++
-- **Others in no specific order:** React, Node, Docker, GCP, AWS, Jenkins, Mongo, Firebase, Unity, (Unreal Engine - Skill is starting to perish though), Xcode, Android Studio, AR/VR and Nano Electronics
+## 📚 Top Books Right Now
+
+Here are my current favorite reads that I highly recommend:
+
+### 1. **The Lean Startup** by Eric Ries
+
+> Eric Ries introduces principles of the lean startup methodology, a systematic, scientific approach for creating and managing successful startups in an age when companies have to innovate more than ever.
+> [More Info](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+
+### 2. **How the Mighty Fall** by Jim Collins
+
+> Jim Collins explores why successful companies decline and how they can recover, detailing stages of decline and providing insightful analysis on the signs and symptoms at each stage.
+> [More Info](https://www.goodreads.com/book/show/6486482-how-the-mighty-fall)
+
+### 3. **The Richest Man in Babylon** by George S. Clason
+
+> This classic offers invaluable financial advice through parables set in ancient Babylon, teaching essential truths about saving, investing, and financial planning.
+> [More Info](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
+
+### 4. **Million Dollar Weekend** by Noah Kagan
+
+> Follow Noah Kagan's entrepreneurial journey as he outlines key strategies and insights on building and growing a business quickly over a weekend, packed with actionable tips.
+> [More Info](https://www.goodreads.com/search?q=million+dollar+weekend)
 
 ## 🏴‍☠️ Pro Stack Team
 
