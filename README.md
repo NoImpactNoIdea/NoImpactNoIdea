@@ -8,7 +8,7 @@
 
 ## 👽 About Me
 
-Hello! With over 15 years of experience in software engineering, I've explored vast territories of code and technology. My career is devoted to developing innovative software solutions and leading highly efficient teams using agile methodologies, inspired by the principles of the lean startup approach by Eric Ries. I specialize in 3D technologies, driving forward advancements in spatial tracking that enhance interaction and functionality in three-dimensional environments. Additionally, I have extensive experience in both Native Mobile and Web Development. Looking forward to fostering universal collaboration! 🚀 P.S. I'm a 39-year-old who believes in the possibility of extraterrestrial life.
+Hello! As a Software Developer, I've explored vast territories of code and technology. My career is devoted to developing innovative software solutions and leading highly efficient teams using agile methodologies, inspired by the principles of the lean startup approach by Eric Ries. I specialize in 3D technologies, driving forward advancements in spatial tracking that enhance interaction and functionality in three-dimensional environments. Additionally, I have extensive experience in both Native Mobile and Web Development. Looking forward to fostering universal collaboration! 🚀 P.S. I'm a 39-year-old who believes in the possibility of extraterrestrial life.
 
 <!-- libraries -->
 <p align="center">
