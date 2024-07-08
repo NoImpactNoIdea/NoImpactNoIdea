@@ -8,7 +8,7 @@
 
 ## 👽 About Me
 
-Hello! My career is devoted to developing innovative software solutions and leading highly efficient teams using agile methodologies, inspired by the principles of the lean startup approach by Eric Ries. I have extensive experience in both Native Mobile and Web Development, particularly with React—because who doesn't love constantly updating libraries and dealing with state management headaches? Looking forward to fostering universal collaboration! 🚀 P.S. I'm a 39-year-old who believes in the possibility of extraterrestrial life.
+Hello! My career is devoted to developing innovative software solutions and leading highly efficient teams using modified agile methodologies when they make sense, inspired by the principles of the lean startup approach by Eric Ries. I have extensive experience in both Native Mobile and Web Development, particularly with React—because who doesn't love constantly updating libraries and dealing with state management headaches? 🚀 P.S. I'm a 39-year-old who believes in Aliens.
 
 <!-- libraries -->
 <p align="center">
