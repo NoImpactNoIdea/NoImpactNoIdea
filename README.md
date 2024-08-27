@@ -8,7 +8,8 @@
 
 ## 👽 About Me
 
-Hello! My career is devoted to developing innovative software solutions and leading highly efficient teams using modified agile methodologies when they make sense, inspired by the principles of the lean startup approach by Eric Ries. I have extensive experience in both Native Mobile and Web Development, particularly with React—because who doesn't love constantly updating libraries and dealing with state management headaches? 🚀 P.S. I'm a 39-year-old who believes in Aliens.
+I'm Charlie! 👋
+I'm a Software Engineer and Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development, and even AR/VR projects. I’ve had the privilege of founding a few startups and leading some amazing engineering teams along the way. I like to keep things simple but effective. I’m a big believer in adapting agile methodologies to fit what actually works for the project. I focus on building scalable, quality software that people love using. Whether it's fine-tuning or organizing code for a clean scale, I’m always striving to improve the process. I'm constantly learning, iterating, and staying driven, which is probably why I enjoy what I do so much. Feel free to dive into my projects, and if something sparks your interest, reach out I'm always up for a chat.
 
 <!-- libraries -->
 <p align="center">
