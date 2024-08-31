@@ -3,7 +3,7 @@
 # Hello, 🏴‍☠️
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/iDOgzWkBquKDlzaw6W/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2NDVmcGw5Z2NveHpsczFkcDgyMW9kcjBmamljYWp2ZWZicG8xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif)" alt="Welcome Banner">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2NDVmcGw5Z2NveHpsczFkcDgyMW9kcjBmamljYWp2ZWZicG8xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" alt="Welcome Banner">
 </p>
 
 ## 👽 About Me
