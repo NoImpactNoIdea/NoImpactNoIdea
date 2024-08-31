@@ -6,9 +6,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw2NDVmcGw5Z2NveHpsczFkcDgyMW9kcjBmamljYWp2ZWZicG8xbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NLHq5dOtUtOUEjOr7W/giphy.gif" alt="Welcome Banner">
 </p>
 
-## 👽 About Me
+## 💎 Elevator Bio
 
-I'm a Software Engineer with a focus on SaaS and Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development, and even AR/VR projects. I’ve had the privilege of founding a few startups and leading some amazing engineers along the way. I like to keep things easy to understand but effective. I’m a big believer in adapting agile methodologies to fit what actually works for the project. I focus on building quality software.
+I'm a Software Engineer with a focus on SaaS and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development, and even AR/VR projects. I’ve had the privilege of founding a few startups and leading some amazing engineers along the way. I like to keep things easy to understand but effective. I’m a big believer in adapting agile methodologies to fit what actually works for the project. I focus on building quality software.
 
 <!-- libraries -->
 <p align="center">
