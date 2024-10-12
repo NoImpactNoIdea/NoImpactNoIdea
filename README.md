@@ -13,6 +13,7 @@ I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus o
 <!-- libraries -->
 <p align="center">
   <img alt="HubSpot CRM Badge" src="https://img.shields.io/badge/HubSpot-FF7A59?logo=HubSpot&logoColor=white">
+  <img alt="Google Analytics Badge" src="https://img.shields.io/badge/Google%20Analytics-E37400?logo=Google%20Analytics&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node-339933?logo=nodedotjs&logoColor=white">
   <!-- languages -->
