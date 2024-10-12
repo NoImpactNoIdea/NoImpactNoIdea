@@ -76,14 +76,14 @@ Here is 1:
 
 ## 📚 What I'm currently learning
 
-- AI - Don't judge me just because everyone else is 😆
+- AI/ML/Tuning - Or just putting "Powered by AI on everything"
 - BASH as a hobby
-- Training to be a Paranormal Investigator
+- Training to leave the office more than once a week
 
 ## 📫 How to reach me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/charlie-a-5b7898114/)
-- Email me at [charliearcodia@gmail.com](mailto:charliearcodia@gmail.com)
+- Email me at [charlie@forgeworks.ai](mailto:charliearcodia@gmail.com)
 
 <p align="center">
   <img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" alt="Footer Banner">
