@@ -8,7 +8,7 @@
 
 ## 💎 Elevator Bio
 
-I'm a Software Engineer with a focus on SaaS and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development, and even AR/VR projects. I’ve had the privilege of founding a few startups and leading some amazing engineers along the way. I like to keep things easy to understand but effective. I’m a big believer in adapting agile methodologies to fit what actually works for the project. I focus on building quality software.
+I'm a Software Engineer & 3X HubSpot (CRM) Expert with a focus on SaaS and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development, and even AR/VR projects. I’ve had the privilege of founding a few startups and leading some amazing engineers along the way. I like to keep things easy to understand but effective. I’m a big believer in adapting agile methodologies to fit what actually works for the project. I focus on building quality software.
 
 <!-- libraries -->
 <p align="center">
