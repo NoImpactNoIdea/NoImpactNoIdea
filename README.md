@@ -8,7 +8,7 @@
 
 ## ★ Elevator Bio
 
-I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus on SaaS and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Native Mobile Development, Web Development and AR/MR/VR projects. I'm founder first and have led some brilliant engineers. I’m a big believer in adapting agile methodologies to fit what actually works for the project/client. I focus on integrating quality software and streamlining Revenue Operations.
+I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus on SaaS/Analytics and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Mobile Development, Web Development, AR/MR/VR and SaaS builds from the startup to the Inc. 500 level. I'm founder first and have led some brilliant engineers. I’m a big believer in adapting agile methodologies to fit what works for the project/client. I focus on integrating quality software and streamlining Revenue Operations.
 
 <!-- libraries -->
 <p align="center">
@@ -23,7 +23,7 @@ I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus o
 
 ## 📚 Top Books Right Now
 
-Here are my current favorite reads that I highly recommend:
+Here are my current reads that I highly recommend:
 
 ### 1. **The Lean Startup** by Eric Ries
 
@@ -52,7 +52,7 @@ You need anything, the warriors and I got your back - shoot us a note and we're 
 
 ## 🔥 Currently working on
 
-In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction.
+In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction - "we find clarity in choas".
 [Visit Forgeworks](https://www.forgeworks.ai/services)
 
 
