@@ -52,7 +52,7 @@ You need anything, the warriors and I got your back - shoot us a note and we're 
 
 ## 🔥 Currently working on
 
-In Development (SaaS GTM RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction.
+In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction.
 [Visit Forgeworks](https://www.forgeworks.ai/services)
 
 
