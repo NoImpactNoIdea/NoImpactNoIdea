@@ -55,16 +55,6 @@ Top books I was told to read:
 > Follow Noah Kagan's entrepreneurial journey as he outlines key strategies and insights on building and growing a business quickly over a weekend, packed with actionable tips.
 > [More Info](https://www.goodreads.com/search?q=million+dollar+weekend)
 
-## 🚀 Projects
-
-Here is 1:
-
-- **Makeup Manager by MM** - B2B artist tool for deep skin tone detection. Available on [App Store](https://apps.apple.com/us/app/makeup-manager-by-mm/id1630203200)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Lk023zZqHJ3Zz4rxtV/giphy.gif" alt="Project Highlight">
-</p>
-
 ## ★ Respected Engineers
 
 - [Cryptobyte](https://github.com/Cryptobyte) - BACKEND SAVANT
@@ -85,5 +75,5 @@ Here is 1:
 - Email me at [charlie@forgeworks.ai](mailto:charliearcodia@gmail.com)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/go3pCPP4899Jd3xb4p/giphy.gif" alt="Footer Banner">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w4OGMxMmdjMDVvbjduaTJjNDA1MGt5aG45MDJ0MGRsMXo3NGV5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DAtJCG1t3im1G/giphy.gif" alt="Footer Banner">
 </p>
