@@ -3,12 +3,14 @@
 # Hello, 🏴‍☠️
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI4a25mNnJwYnAxc2p3dDB6a21zcG9sbDZhZmdwMDcxcGx6N3dwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5MrDXQvKfw033ZRWQv/giphy.gif" alt="Welcome Banner">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRtbmc5eTUzZzhkb3BmZmRmZ25rYW1xbjF4YWQ3cDdpMWZ5ZmZociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d31vTpVi1LAcDvdm/giphy.gif" alt="Welcome Banner">
 </p>
 
 ## ★ Elevator Bio
 
-I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus on SaaS/Analytics and a Fractional CTO with a passion for turning ideas into real, working products. Over the past decade, I’ve worked across Mobile Development, Web Development, AR/MR/VR and SaaS builds from the startup to the Inc. 500 level. I'm founder first and have led some brilliant engineers. I’m a big believer in adapting agile methodologies to fit what works for the project/client. I focus on integrating quality software and streamlining Revenue Operations.
+Software Engineer | 3X Certified HubSpot Admin Expert with a focus on SaaS/Analytics. Fractional CTO with a GSD mindset. 
+
+I build software.
 
 <!-- libraries -->
 <p align="center">
@@ -23,9 +25,15 @@ I'm a Software Engineer & 3X Certified HubSpot Admin (CRM) Expert with a focus o
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
 </p>
 
+## 🔥 Currently working on
+
+In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction - "we find clarity in choas".
+[Visit Forgeworks](https://www.forgeworks.ai/services)
+
+
 ## 📚 Top Books Right Now
 
-Here are my current reads that I highly recommend:
+Top books I was told to read:
 
 ### 1. **The Lean Startup** by Eric Ries
 
@@ -47,17 +55,6 @@ Here are my current reads that I highly recommend:
 > Follow Noah Kagan's entrepreneurial journey as he outlines key strategies and insights on building and growing a business quickly over a weekend, packed with actionable tips.
 > [More Info](https://www.goodreads.com/search?q=million+dollar+weekend)
 
-## 🏴‍☠️ Pro Stack Team
-
-You need anything, the warriors and I got your back - shoot us a note and we're there.
-[Visit Pro Stack Dev](https://prostackdev.com)
-
-## 🔥 Currently working on
-
-In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction - "we find clarity in choas".
-[Visit Forgeworks](https://www.forgeworks.ai/services)
-
-
 ## 🚀 Projects
 
 Here is 1:
@@ -68,7 +65,7 @@ Here is 1:
   <img src="https://media.giphy.com/media/Lk023zZqHJ3Zz4rxtV/giphy.gif" alt="Project Highlight">
 </p>
 
-## ★ Engineers
+## ★ Respected Engineers
 
 - [Cryptobyte](https://github.com/Cryptobyte) - BACKEND SAVANT
 - [Eric Solberg](https://github.com/eric-solberg/eric-solberg) - iOS DOMINATOR
@@ -78,8 +75,8 @@ Here is 1:
 
 ## 📚 What I'm currently learning
 
-- AI/ML/Tuning - Or just putting "Powered by AI on everything"
-- BASH as a hobby
+- AI/ML/Tuning - Putting "Powered by AI on everything"
+- BASH 
 - Training to leave the office more than once a week
 
 ## 📫 How to reach me
