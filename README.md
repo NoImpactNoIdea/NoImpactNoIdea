@@ -25,12 +25,6 @@ I build software.
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white">
 </p>
 
-## 🔥 Currently working on
-
-In Development (SaaS & RevOps) - We're building a new RevOps solution so GTM teams can generate more revenue with less friction - "we find clarity in choas".
-[Visit Forgeworks](https://www.forgeworks.ai/services)
-
-
 ## 📚 Top Books Right Now
 
 Top books I was told to read:
