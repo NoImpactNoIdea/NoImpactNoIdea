@@ -51,6 +51,7 @@ Top books I was told to read:
 
 ## ★ Respected Engineers
 
+- [Emmanuel Kiprono](https://github.com/ekngen11) - Salesforce (SFDC) Expert
 - [Cryptobyte](https://github.com/Cryptobyte) - BACKEND SAVANT
 - [Eric Solberg](https://github.com/eric-solberg/eric-solberg) - iOS DOMINATOR
 - [Dizzyjaguar](https://github.com/dizzyjaguar/) - REACT HUMAN-FIRST
